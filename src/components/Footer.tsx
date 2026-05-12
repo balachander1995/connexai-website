@@ -1,5 +1,5 @@
 import React from 'react';
-import { Globe, Instagram, Linkedin, Mail,} from 'lucide-react';
+import { Instagram, Linkedin, Mail } from 'lucide-react';
 
 type FooterProps = {
   onNavigate?: (pathname: string) => void;
